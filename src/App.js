@@ -9,16 +9,8 @@ class App extends Component {
       <div className="App">
         
         <Game/>
-        {/*<Greet name='Aarti' stand='10th'>
-          <p>aarti is a good girl</p>
-        </Greet>*/}
-        {/*<Greet name='Mohit' stand='Second year'/>
-        <Welcome name='Aarti' stand='10th'>
-          <button>Action</button>
-        </Welcome>
-        <Welcome name='Mohit' stand='Second year'/>*/}
-        {/*<Message/>*/}
-        {/*<Counter addValue={100}/>*/}
+        
+        {/*Todolist/>*/}
       </div>
     );
   }
